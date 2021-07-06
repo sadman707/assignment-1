@@ -23,7 +23,6 @@ body{
     
       }
       
-
 .one-third-width img{
     width: 90%;
 
@@ -100,5 +99,29 @@ span{color: orangered;}
 .shrinking{
     margin-left: 25%;
     margin-right: 25%;
+}
+#subscriber-1{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 30px;
+
+}
+.flexible-new-container{
+    display: flex;
+    margin-bottom: 100px;
+    width: 80%;
+    margin-left: 130px;
+   
+}
+.font-size{
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    padding-top: 20px;
+}
+.footer-font{
+    color: white;
 }
 
