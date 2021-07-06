@@ -4,7 +4,7 @@ body{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
     width: 100%;
     
 }
@@ -30,12 +30,31 @@ span{color: orangered;}
     margin-bottom: -10px;
 }
 .link-button{
-    text-decoration: none;
+    
     background-image: linear-gradient(rgb(226, 140, 59), rgb(238, 238, 10));
-    padding: 10px 40px;
+    padding: 15px 30px;
     border-radius: 50px;
     color: black;
     font-weight: 800;
-    
-    
+    margin-top: 70px;
+    width: 20%;   
 }
+#link-button-only{
+    text-decoration: none;
+}
+#setting-height{
+    height: 500px;
+    padding-top: 80px;
+}
+#about-me-paragraph{
+    padding-top: 200px;
+}
+.recipie-allignment{
+    text-align: center; 
+    margin-top: 70px;   
+}
+.shrinking{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
